@@ -28,6 +28,9 @@
 
      `upload youre given creds.json by editing it on the creds.json file in the session folder, some of the country use vpn to get youre file recomended vpn is Stark vpn`
 
+         use this pairing 02 
+<a href='https://creds-1.onrender.com/pair' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-002-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
 -------------------------
 
 ***BOT FEATURES 💌***
@@ -43,6 +46,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lazack28/Lazack-advanced)
   
 <a href='https://replit.com/~' target="_blank"><img alt='Deploy Replit' src='https://img.shields.io/badge/DEPLOY REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+----------------------
+
+***[TUTORIAL HOW TO DEPLOY](https://vm.tiktok.com/ZMrEaehwD/)***
 
 ----------------------
 
